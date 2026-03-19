@@ -27,8 +27,10 @@ This project demonstrates:
 
 ```
 .
-├── app.py
-└── Dockerfile
+├── README.md
+└── python-docker-app/
+    ├── app.py
+    └── Dockerfile
 ```
 
 ---
@@ -46,7 +48,7 @@ python3 app.py
 ### 🔹 Build Docker Image
 
 ```bash
-docker build -t python-docker-app .
+docker build -t vanshikamod/python-docker-app .
 ```
 
 ---
