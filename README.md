@@ -81,7 +81,7 @@ This repository contains the source code and Docker configuration for the applic
 ## ✨ Output
 
 ```
-Hello from Dockerized Python App 🚀
+Hello world from python app
 ```
 
 ---
